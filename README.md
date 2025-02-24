@@ -10,4 +10,6 @@
 #   I used the reading provided in the class
 #   as well as the tkinter documentation.
 
+
+The user can enter any valid positive number (int or float) for the value of miles per gallon. Doesn't accept negative numbers or non-number symbols. The program will output the conversion of that value to kilometers per liter. 
 ![Example Image](./example.PNG?raw=true)
